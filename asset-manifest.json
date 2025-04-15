@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/weather-login-app/static/css/main.ccea8885.css",
+    "main.js": "/weather-login-app/static/js/main.ba878049.js",
+    "static/js/453.45fda830.chunk.js": "/weather-login-app/static/js/453.45fda830.chunk.js",
+    "index.html": "/weather-login-app/index.html",
+    "main.ccea8885.css.map": "/weather-login-app/static/css/main.ccea8885.css.map",
+    "main.ba878049.js.map": "/weather-login-app/static/js/main.ba878049.js.map",
+    "453.45fda830.chunk.js.map": "/weather-login-app/static/js/453.45fda830.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccea8885.css",
+    "static/js/main.ba878049.js"
+  ]
+}
